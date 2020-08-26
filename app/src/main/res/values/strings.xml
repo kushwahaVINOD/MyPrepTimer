@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Prep Timer</string>
+    <string name="alert">Welcome</string>
+
+    <string name="l_duration">Total Duration</string>
+    <string name="l_beepInterval">Beep Interval</string>
+    <string name="l_beepaudio">Beep Audio</string>
+    <string name="h_in_min">in minutes</string>
+    <string name="b_start">START</string>
+    <string name="b_pause">PAUSE</string>
+    <string name="b_resume">RESUME</string>
+    <string name="b_stop">STOP</string>
+    <string name="b_reset">RESET</string>
+    <string name="h_select_song">Choose audio</string>
+    <string-array name="sondlist">
+        <item>Next</item>
+        <item>Beep1</item>
+        <item>Beep2</item>
+    </string-array>
+</resources>
